@@ -56,10 +56,10 @@ The report integrates customer demographics, contract types, internet service ty
 # 📷 Screenshots
 
 # 📍 Summary View  
-![Summary View]()
+![Summary View](https://github.com/TusdidSabur/data-analytics-portfolio/blob/main/Pwc_Forage_Customer_Risk_And_Churn_Analysis_Page_01.png)
 
 # 📍 Detailed Risk View  
-![Detailed View](https://github.com/TusdidSabur/data-analytics-portfolio/blob/main/Pwc_Forage_Customer_Risk_And_Churn_Analysis_Page_03.png))
+![Detailed View](https://github.com/TusdidSabur/data-analytics-portfolio/blob/main/Pwc_Forage_Customer_Risk_And_Churn_Analysis_Page_03.png)
 
 ---
 
